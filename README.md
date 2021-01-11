@@ -15,7 +15,7 @@ clonar projeto = https://github.com/leogcjr/intervalo-de-numeros.git
 
 Executar classe main Intervalo.java
 
-- pela linha de comando executar a classe atraves do comando na raiz da pasta (/src)
+- pela linha de comando executar o comando abaixo diretamente na pasta da classe
 
 1º javac Intervalo.java
 
